@@ -14,7 +14,7 @@ let numOfPlants = (20)
 
 let per80 = (80 * plantSpace) / 100; // 62.8, A demo to make sure the formula calculates the percentage OF the total space
 
-console.log(per80)
+
 
 
 ///////////////// Part 1: Growing Pains
